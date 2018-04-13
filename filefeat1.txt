@@ -1,2 +1,5 @@
 this file contains details for the new feature1
 more info as we find the details.
+
+this line has now been added ad a part of feature1 pull request manually
+
